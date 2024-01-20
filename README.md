@@ -1,1 +1,1 @@
-REST API no padrão MVC com MongoDB integrado (em andamento)
+REST API no padrão MVC com MongoDB integrado.
